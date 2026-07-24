@@ -7,7 +7,7 @@
 Building and managing cloud infrastructure, automating deployments, and improving system reliability through DevOps practices.
 </p>
 
-<img align="right" width="320" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif">
+<img align="right" width="280" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif">
 
 ## 👨‍💻 About Me
 
@@ -26,11 +26,22 @@ Building and managing cloud infrastructure, automating deployments, and improvin
 ## 📫 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/amitsharma2003/">
+
+<a href="https://www.linkedin.com/in/amitsharma2003/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48">
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:amitsharma1.cloud@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="48">
 </a>
-</p>
+
+</p>                                                                             
+  
+  
+  
+                      
+                      
+                      
+  
