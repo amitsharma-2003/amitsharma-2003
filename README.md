@@ -26,7 +26,7 @@ Building and managing cloud infrastructure, automating deployments, and improvin
 ## 📫 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/amit-sharma2003">
+<a href="https://www.linkedin.com/in/amitsharma2003/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48">
 </a>
 
